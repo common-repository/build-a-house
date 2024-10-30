@@ -1,0 +1,6 @@
+table.build-a-house-expences .date {
+  white-space: nowrap;
+}
+table.build-a-house-expences .number {
+  text-align: right;
+}

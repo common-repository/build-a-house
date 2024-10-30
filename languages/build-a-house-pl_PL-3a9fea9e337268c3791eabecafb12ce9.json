@@ -1,0 +1,39 @@
+{
+    "translation-revision-date": "2021-04-30 12:40+0200",
+    "generator": "WP-CLI\/2.4.0",
+    "source": "assets\/blocks\/expences.js",
+    "domain": "messages",
+    "locale_data": {
+        "messages": {
+            "": {
+                "domain": "messages",
+                "lang": "pl",
+                "plural-forms": "nplurals=3; plural=(n == 1) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);"
+            },
+            "Expences Settings": [
+                "Ustawienia wydatk\u00f3w"
+            ],
+            "Expences": [
+                "Wydatki"
+            ],
+            "Period:": [
+                "Okres:"
+            ],
+            "All data": [
+                "Wszystkie dane"
+            ],
+            "This year": [
+                "Aktualny rok"
+            ],
+            "This month": [
+                "Aktualny miesi\u0105c"
+            ],
+            "Last 7 days": [
+                "Ostatnie 7 dni"
+            ],
+            "Configure block on sidebar.": [
+                "Konfiguracja bloku w panelu bocznym."
+            ]
+        }
+    }
+}
